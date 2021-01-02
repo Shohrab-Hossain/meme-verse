@@ -8,7 +8,7 @@ Front-end Vue.js files are build, and served in the folder named 'app' inside no
 
 | Username | Password |
 | -------- | -------- |
-| Shohrab  | 1234     |
+| shohrab  | 1234     |
 | khan     | 1234     |
 
 
